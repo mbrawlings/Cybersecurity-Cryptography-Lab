@@ -1,0 +1,15 @@
+Research major cybersecurity breaches over the past 20 years and pick one to write a short essay on.
+
+    Facebook
+
+Give an overview of what the breach was and the motivations behind it.
+
+    In March 2021 hackers scraped through and 533,000,000 records were lost. This was due to a weak patch made in 2019. These millions of records were spread across 106 different countries and were posted onto a hacking forum. Data hacked included; names, phone numbers, user locations, biographical information, and email addresses.
+
+Explain where the “tech flaws” were, and how hackers were able to breach their system.
+
+    There was a patch that wasn't patched as good as it could've. Facebook is very hush-hush about the leaks that they have. They also brush it off by saying that it's normal and people should more or less expect things like that to happen.
+
+What has the company done to protect against that vulnerability since?
+
+    They say they fixed the issue and that the same route can no longer be used to scrape that data.
